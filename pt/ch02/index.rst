@@ -1,5 +1,5 @@
 ===========
-Get Started
+inicio
 ===========
 
 .. sectionauthor:: `x4lMarcos <https://github.com/x4lMarcos>`_
@@ -68,9 +68,9 @@ Outro arquivo, ``HelloWorld.qml``, É o nosso código de aplicação. Abrir e te
 
 O ``HelloWord.qml`` está escrito em QML language. Discutiremos QML language com mais profundidade no próximo capítulo. QML descreve a interface de usuário como uma árvore hierárquica de elementos. Neste caso, rectangle com 360 x 360 pixels com o texto centralizado "Hello World". Para capturar o usuário clica na mouse área que abrange todo o retângulo e quando o usuário clica nele, a aplicação fecha.
 
-To run the application on your own, please press the |creatorrun| :guilabel:`Run` tool on the left side or select :menuselection:`Build --> Run` from the menu.
+Para executar o aplicativo em seu próprio, pressione o |creatorrun| :guilabel:`Run` tool o lado esquerdo ou selecione :menuselection:`Build --> Run` a partir do menu.
 
-Qt Creator will start the ``qmlscene`` and passes the QML document as the first argument. The ``qmlscene`` will parse the document and launch the user interface. Now you should see something like this:
+Qt Creator irá iniciar o ``qmlscene`` and passes the QML document as the first argument. The ``qmlscene`` will parse the document and launch the user interface. Now you should see something like this:
 
 .. figure:: assets/example.png
     :scale: 50%
