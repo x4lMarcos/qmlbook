@@ -15,7 +15,7 @@ Este capítulo introduzirá ao desenvolvimento com Qt 5. Vamos mostrar a você c
     The source code of this chapter can be found in the `assets folder <../../assets>`_.
 
 
-Installing Qt 5 SDK
+Instalando Qt 5 SDK
 ===================
 
 .. issues:: ch02
